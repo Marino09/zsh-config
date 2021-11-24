@@ -4,6 +4,7 @@
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/mmartinez/.oh-my-zsh"
 
+# 1
 # Go workspace.
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
